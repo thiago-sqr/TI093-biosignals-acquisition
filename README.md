@@ -1,5 +1,10 @@
 # Análise Multimodal de Biosinais para Detecção de Freezing of Gait
 
+Equipe:
+-Danilo Vieira Bezerra
+-Nataniel Marques Viana Neto
+-Thiago Siqueira de Sousa
+
 ## Descrição do Projeto:
 
 Este projeto tem como objetivo analisar sinais biomédicos multimodais para detectar episódios de Freezing of Gait (FoG), um sintoma da Doença de Parkinson em que o paciente “trava” durante a caminhada. 
@@ -86,12 +91,21 @@ Foi feito um pré-processamento para os sinais:
 
 TI093-biosignals-acquisition/
 │
+
 ├── data/
+
 │   └── raw/
+
 │     └── README.md
+
 │   └── README.pdf
+
 ├── .gitignore
+
 ├── notebooks/
+
 ├── README.md
+
 ├── requirements.txt
+
 └── test.ipynb
