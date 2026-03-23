@@ -8,20 +8,25 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
+# Dados (NÃO subir datasets)
+data/raw/
+data/bronze/
+data/silver/
 
-# dados brutos
+# Formatos pesados
+*.parquet
+*.csv
+*.txt
+
+# Arquivos EEG (BrainVision)
 *.eeg
 *.vhdr
 *.vmrk
-
-# CSVs de sensores (se forem grandes ou brutos)
-data/**/*.csv
-data/**/*.txt
 
 # Arquivos compactados
 *.zip
 *.tar.gz
 
-# Arquivos do sistema
+# Sistema
 .DS_Store
 Thumbs.db
