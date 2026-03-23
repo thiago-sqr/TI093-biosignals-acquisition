@@ -17,6 +17,7 @@ __pycache__/
 # CSVs de sensores (se forem grandes ou brutos)
 data/**/*.csv
 data/**/*.txt
+data/**/*.parquet
 
 # Arquivos compactados
 *.zip
