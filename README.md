@@ -1,7 +1,7 @@
 # Análise Multimodal de Biosinais para Detecção de Freezing of Gait (FoG)
 
 **Equipe:**
-* Danilo Bezerra Vieira
+* Danilo Vieira Bezerra
 * Nataniel Marques Viana Neto
 * Thiago Siqueira de Sousa
 
@@ -173,5 +173,3 @@ Pastas `data/bronze/`, `data/silver/` e arquivos `.parquet` são gerados localme
 ## Dependências
 
 Arquivo `requirements.txt` na raiz (numpy, pandas, matplotlib, mne, jupyter, pyarrow). Recomenda-se ambiente virtual e `pip install -r requirements.txt` antes de abrir os notebooks.
-
-
