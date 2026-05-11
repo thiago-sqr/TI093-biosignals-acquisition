@@ -1,7 +1,7 @@
 # Análise Multimodal de Biosinais para Detecção de Freezing of Gait (FoG)
 
 **Equipe:**
-* Danilo Vieira Bezerra
+* Danilo Bezerra Vieira
 * Nataniel Marques Viana Neto
 * Thiago Siqueira de Sousa
 
